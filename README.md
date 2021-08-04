@@ -2,7 +2,7 @@
 
 Help PyBer improve access to ride-sharing services adn determine affordability for underserved neighborhoods.
 
-Perform an exploratory analysis on the data. Writing python scripts using Panda's libraries, the Jupyter notebook, and the Matplotlib to create a variety of charts that showcase the relationship between the type of city, and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. 
+Perform an exploratory analysis on the data. Creating a variety of charts and visualizations that showcase the relationship between the type of city, and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. 
 
 # Results
 
