@@ -2,7 +2,7 @@
 
 Help PyBer improve access to ride-sharing services adn determine affordability for underserved neighborhoods.
 
-Perform an exploratory analysis on the data. Creating a variety of charts and visualizations that showcase the relationship between the type of city, and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. 
+Perform an exploratory analysis on the data. Creating a variety of charts and visualizations that showcase the relationship between the type of city, and the number of drivers and riders, as well as the percentage of total fares, riders and drivers by type of city. Use the data to provide ideas on ways to imporve the business and increase revenue.
 
 # Results
 
@@ -66,5 +66,10 @@ Differences in ride-sharing data among the different city types is shown in the 
 The listed Ride-Sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 # Summary
+One rcomendation that could be addressed with the CEO is considering sending additional drivers to the Urban cities throughout the year. The Urban cities produce the most amount of revenue due to the higher demand - higher populated areas with more businesses and other economic destinations. The Ride-Sharing in the Urban city is less likely to compete with car owners of the smaller market share. This could increase the opportunity of providing rides for more people. 
+Another recomendation for the CEO for addressing the disparities among the city types is to increase the amount of drivers available in all city types Urban, Suburban, and Rural thorugh the month of February. This is the month with the highest spike in total fares collected from each city type. 
+The last recomendation would be to collect additional information about each ride such as the distance traveled for each fare. This could provide insight as to why the Rural fares have a much higher rate per ride compared to the Urban rates. The Rural areas have a higher competetion between the ride-sharing and car owners. The rural car owners whom are likely to travel greater distances have a less need to pay high rates over owning a vehicle. 
+
+
 
 Summarize the three business recomendations to the CEO for addressing any disparities among the city types
