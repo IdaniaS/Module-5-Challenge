@@ -12,11 +12,25 @@ Perform an exploratory analysis on the data. Creating a variety of charts and vi
 
 The Urban city type has the highest total amount of rides per city at 1,625 rides.
 
+![Percent of Total Rides by City Type](https://user-images.githubusercontent.com/86635590/128650617-838bbd2c-0b9a-413b-873e-830e32b8c04e.JPG)
+
+
 ## Total Drivers, Total Amount of Fares, Average Fare per Ride, and Average Fare per Driver
 
 ![Data2](https://user-images.githubusercontent.com/86635590/128649606-02f356ec-35ae-4174-a0b8-2b114dcf9112.JPG)
 
-Along with providing the most rides the Urabn area has the highest number of drivers and total amount of fares. The highest average fare per ride is in the Rural area along with the highest average fare per driver which is much higher than the Urban rate.
+![Percent of Total Drivers by City Type](https://user-images.githubusercontent.com/86635590/128650632-4a480e70-ba7b-40e4-adea-84586352832c.JPG)
+![Percent of Total Fares by City](https://user-images.githubusercontent.com/86635590/128650636-f4bcf1bd-3ffb-4164-8e00-f81c4caf4cce.JPG)
+
+Along with providing the most rides the Urabn area has the highest number of drivers and total amount of fares. 
+
+![Driver Count Data (2019)](https://user-images.githubusercontent.com/86635590/128650663-2a65314c-f18e-4bd9-b1da-3874f36c38f4.JPG)
+
+![Ride Count Data (2019)](https://user-images.githubusercontent.com/86635590/128650657-13064f9a-028a-49f0-9236-757b2a2efb78.JPG)
+
+![Ride Fare Data (2019)](https://user-images.githubusercontent.com/86635590/128650646-a238a6c9-38d3-4a18-9d28-e779eaea24e0.JPG)
+
+However the highest average fare per ride is in the Rural area along with the highest average fare per driver which is much higher than the Urban rate.
 
 ### Chart Outlining the Data
 
@@ -47,6 +61,7 @@ Along with providing the most rides the Urabn area has the highest number of dri
 
 Differences in ride-sharing data among the different city types is shown in the Graph.
 
+![PyBer Ride-Sharing Data (2019)](https://user-images.githubusercontent.com/86635590/128650695-27239722-53d0-4bdd-aaa5-558ba767d729.JPG)
 
 The listed Ride-Sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
