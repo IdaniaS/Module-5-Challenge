@@ -46,7 +46,9 @@ Along with providing the most rides the Urabn area has the highest number of dri
 
 
 Differences in ride-sharing data among the different city types is shown in the Graph.
-The Ride-Sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+
+
+The listed Ride-Sharing data includes the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
 
 # Summary
 
